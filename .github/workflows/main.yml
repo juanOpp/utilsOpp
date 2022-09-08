@@ -22,7 +22,7 @@ jobs:
         username: admin
         password: admin123
         format: maven2
-        repository: maven-public
+        repository: maven-releases
         coordinates: groupId=com.opplus artifactId=utilsOpp version=0.0.2
         assets: extension=jar
         filename: ./target/utilsOpp-0.0.2.jar
